@@ -16,4 +16,4 @@ steps:
     containerRegistry: 'mydockerregistry'
     repository: 'sudhadocid/myazuredockerimg'
     command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
+    Dockerfile: '**/dockerfile'
